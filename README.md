@@ -1,3 +1,3 @@
 # maven-project
 
-Changed from UI for fetch
+ Adding from CLI to check..... Changed from UI for fetch
