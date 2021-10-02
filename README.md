@@ -2,4 +2,4 @@
 
 Basha Sample Maven Project
 
- New Added another line 
+Added another line 
